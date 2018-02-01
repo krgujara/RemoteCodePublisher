@@ -1,0 +1,12 @@
+function toggle(identity) {
+ var ele = document.getElementById(identity);
+ var text = document.getElementById("displayText");
+ if (ele.style.display == "block") {
+  ele.style.display = "none";
+  text.innerHTML = "+";
+ }
+ else {
+  ele.style.display = "block";
+  text.innerHTML = "-";
+ }
+}

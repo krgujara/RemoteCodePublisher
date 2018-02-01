@@ -1,0 +1,10 @@
+﻿  Client.cpp
+  Utilities.cpp
+  Sockets.cpp
+  Logger.cpp
+  Cpp11-BlockingQueue.cpp
+  HttpMessage.cpp
+  FileSystem.cpp
+  Generating Code...
+  MsgClient.vcxproj -> C:\Users\Komal\Desktop\Project 4\To Submit\RemoteCodePublisher\Debug\Client.exe
+  MsgClient.vcxproj -> C:\Users\Komal\Desktop\Project 4\To Submit\RemoteCodePublisher\Debug\Client.pdb (Full PDB)

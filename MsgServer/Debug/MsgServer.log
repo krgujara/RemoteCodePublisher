@@ -1,0 +1,23 @@
+﻿  Server.cpp
+  Utilities.cpp
+  TypeTable.cpp
+  Tokenizer.cpp
+  Sockets.cpp
+  SemiExp.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  ConfigureParser.cpp
+  ActionsAndRules.cpp
+  Logger.cpp
+  Cpp11-BlockingQueue.cpp
+  HttpMessage.cpp
+  GrammarHelpers.cpp
+  FileSystem.cpp
+  FileMgr.cpp
+  DepAnal.cpp
+  codePublisher.cpp
+  Executive.cpp
+  AbstrSynTree.cpp
+  Generating Code...
+  MsgServer.vcxproj -> C:\Users\Komal\Desktop\Project 4\To Submit\RemoteCodePublisher\Debug\Server.exe
+  MsgServer.vcxproj -> C:\Users\Komal\Desktop\Project 4\To Submit\RemoteCodePublisher\Debug\Server.pdb (Full PDB)
